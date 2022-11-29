@@ -1,1 +1,11 @@
-
+192.168.1.1 router.local
+192.168.1.2 thindebian.local
+192.168.1.3 pihole.local
+192.168.1.103 coreelec.local
+192.168.1.150 ender5.local
+192.168.1.104 twister.local
+192.168.1.10 direwolf.local
+192.168.1.40 jobe.local
+192.168.1.151 cr10.local
+192.168.1.2 apt-proxy
+142.93.64.211 mailhost.mytechguyri.com
