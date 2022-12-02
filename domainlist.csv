@@ -12,3 +12,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 12,2,(\.|^)disneyplus\.bn5x\.net$,1,1669947659,1669947659,
 13,2,(\.|^)js-agent\.newrelic\.com$,1,1669947688,1669947688,
 14,2,(\.|^)disney-plus\.net$,1,1669947701,1669947701,
+15,2,(\.|^)dssott\.com$,1,1669947873,1669947873,
+16,2,(\.|^)adobedtm\.com$,1,1669947892,1669947892,
