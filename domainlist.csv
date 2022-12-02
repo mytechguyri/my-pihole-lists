@@ -1,7 +1,6 @@
 id,type,domain,enabled,date_added,date_modified,comment
 1,0,xmrig.com,1,1650911770,1650911770,
 2,1,b-api.facebook.com,1,1669822311,1669822311,"Facebook ads"
-3,0,bamtech.sc.omtrdc.net,1,1669947468,1669947468,Disney+
 4,2,(\.|^)disneyplus\.com$,1,1669947526,1669947526,
 5,2,(\.|^)bamgrid\.com$,1,1669947544,1669947544,
 6,2,(\.|^)bam\.nr-data\.net$,1,1669947562,1669947562,
@@ -14,3 +13,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 14,2,(\.|^)disney-plus\.net$,1,1669947701,1669947701,
 15,2,(\.|^)dssott\.com$,1,1669947873,1669947873,
 16,2,(\.|^)adobedtm\.com$,1,1669947892,1669947892,
+17,2,(\.|^)bamtech\.sc\.omtrdc\.net$,1,1669948169,1669948169,
