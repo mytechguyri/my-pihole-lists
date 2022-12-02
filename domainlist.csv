@@ -1,3 +1,14 @@
 id,type,domain,enabled,date_added,date_modified,comment
 1,0,xmrig.com,1,1650911770,1650911770,
 2,1,b-api.facebook.com,1,1669822311,1669822311,"Facebook ads"
+3,0,bamtech.sc.omtrdc.net,1,1669947468,1669947468,Disney+
+4,2,(\.|^)disneyplus\.com$,1,1669947526,1669947526,
+5,2,(\.|^)bamgrid\.com$,1,1669947544,1669947544,
+6,2,(\.|^)bam\.nr-data\.net$,1,1669947562,1669947562,
+7,2,(\.|^)cdn\.registerdisney\.go\.com$,1,1669947576,1669947576,
+9,2,(\.|^)cws\.conviva\.com$,1,1669947599,1669947599,
+10,2,(\.|^)d9\.flashtalking\.com$,1,1669947628,1669947628,
+11,2,(\.|^)disney-portal\.my\.onetrust\.com$,1,1669947645,1669947645,
+12,2,(\.|^)disneyplus\.bn5x\.net$,1,1669947659,1669947659,
+13,2,(\.|^)js-agent\.newrelic\.com$,1,1669947688,1669947688,
+14,2,(\.|^)disney-plus\.net$,1,1669947701,1669947701,
