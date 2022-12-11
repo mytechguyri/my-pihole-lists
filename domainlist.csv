@@ -14,3 +14,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 15,2,(\.|^)dssott\.com$,1,1669947873,1669947873,
 16,2,(\.|^)adobedtm\.com$,1,1669947892,1669947892,
 17,2,(\.|^)bamtech\.sc\.omtrdc\.net$,1,1669948169,1669948169,
+18,0,device-metrics-us-2.amazon.com,1,1670648163,1670648163,"Added from Query Log"
+19,0,ssl.google-analytics.com,1,1670648252,1670648252,"Added from Query Log"
