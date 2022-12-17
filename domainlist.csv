@@ -18,3 +18,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 19,0,ssl.google-analytics.com,1,1670648252,1670648252,"Added from Query Log"
 52,0,logging.dhg.myharmony.com,1,1671221336,1671221336,"Added from Query Log"
 54,0,cws-hulu.conviva.com,1,1671258833,1671258833,"Added from Query Log"
+55,2,(\.|^)trakt\.tv$,1,1671259780,1671259780,
