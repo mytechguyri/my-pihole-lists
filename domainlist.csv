@@ -19,3 +19,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 52,0,logging.dhg.myharmony.com,1,1671221336,1671221336,"Added from Query Log"
 54,0,cws-hulu.conviva.com,1,1671258833,1671258833,"Added from Query Log"
 55,2,(\.|^)trakt\.tv$,1,1671259780,1671259780,
+57,0,self.events.data.microsoft.com,1,1674862494,1674862494,"Added from Query Log"
