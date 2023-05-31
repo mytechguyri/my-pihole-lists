@@ -1,31 +1,31 @@
 id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_domains,status
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1649054136,1649054136,"Migrated from /etc/pihole/adlists.list",1685509671,186360,1,2
-2,https://urlhaus.abuse.ch/downloads/hostfile/,1,1649055002,1649055002,"url haus",1685509673,1380,0,1
-3,https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt,1,1649055061,1649055061,lightswitch,1685509696,431507,0,2
-4,https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt,1,1649055083,1649055083,"AMP Hosts",1685509699,16452,0,2
-5,https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt,1,1649055153,1649055153,"Firebog KAD",1685509712,147922,0,2
-6,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts,1,1649055199,1649055199,"Firebog Spam",1685509713,57,0,2
-7,https://v.firebog.net/hosts/static/w3kbl.txt,1,1649055216,1649055216,Firebog,1685509714,347,0,2
-8,https://phishing.army/download/phishing_army_blocklist_extended.txt,1,1649055265,1649055265,"Phishing Army Extended",1685509722,140788,1,2
-9,https://ewpratten.github.io/youtube_ad_blocklist/hosts.ipv4.txt,1,1669401218,1669401218,"YouTube ip4",1685509724,9245,0,2
-10,https://raw.githubusercontent.com/HenningVanRaumle/pihole-ytadblock/master/ytadblock.txt,1,1669494697,1669494697,Ytadblock,1685509725,69,1,2
-11,https://adaway.org/hosts.txt,1,1669606326,1671831437,Wally3k,1685509727,6540,0,2
-12,https://v.firebog.net/hosts/AdguardDNS.txt,1,1669606326,1671831441,Wally3k,1685509730,52326,0,2
-13,https://v.firebog.net/hosts/Admiral.txt,1,1669606326,1671831443,Wally3k,1685509731,0,0,2
-14,https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt,1,1669606326,1671831444,Wally3k,1685509735,42536,0,2
-15,https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt,1,1669606326,1671831446,Wally3k,1685509737,2701,0,2
-16,https://v.firebog.net/hosts/Easylist.txt,1,1669606326,1671831447,Wally3k,1685509739,24912,0,2
-17,https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext,1,1669606326,1671831448,Wally3k,1685509741,3724,0,2
-18,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts,1,1669606326,1671831454,Wally3k,1685509743,9,0,2
-19,https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts,1,1669606326,1671831459,Wally3k,1685509746,18144,0,2
-20,https://v.firebog.net/hosts/Easyprivacy.txt,1,1669606326,1671831461,Wally3k,1685509748,18357,0,2
-21,https://v.firebog.net/hosts/Prigent-Ads.txt,1,1669606326,1671831468,Wally3k,1685509749,3674,0,2
-22,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts,1,1669606326,1671831470,Wally3k,1685509751,2030,0,2
-23,https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt,1,1669606326,1671831471,Wally3k,1685509752,347,0,2
-24,https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt,1,1669606326,1671831473,Wally3k,1685509754,14131,0,2
-25,https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt,1,1669606326,1671831474,Wally3k,1685509757,13410,13,2
-26,https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt,1,1669606326,1671831477,Wally3k,1685509758,45,0,2
-27,https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt,1,1669606326,1671831479,Wally3k,1685509759,2735,1,2
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1649054136,1649054136,"Migrated from /etc/pihole/adlists.list",1685511413,186360,1,2
+2,https://urlhaus.abuse.ch/downloads/hostfile/,1,1649055002,1649055002,"url haus",1685511414,1382,0,1
+3,https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt,1,1649055061,1649055061,lightswitch,1685511438,431507,0,2
+4,https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt,1,1649055083,1649055083,"AMP Hosts",1685511441,16452,0,2
+5,https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt,1,1649055153,1649055153,"Firebog KAD",1685511454,147922,0,2
+6,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts,1,1649055199,1649055199,"Firebog Spam",1685511455,57,0,2
+7,https://v.firebog.net/hosts/static/w3kbl.txt,1,1649055216,1649055216,Firebog,1685511456,347,0,2
+8,https://phishing.army/download/phishing_army_blocklist_extended.txt,1,1649055265,1649055265,"Phishing Army Extended",1685511464,140788,1,2
+9,https://ewpratten.github.io/youtube_ad_blocklist/hosts.ipv4.txt,1,1669401218,1669401218,"YouTube ip4",1685511466,9245,0,2
+10,https://raw.githubusercontent.com/HenningVanRaumle/pihole-ytadblock/master/ytadblock.txt,1,1669494697,1669494697,Ytadblock,1685511467,69,1,2
+11,https://adaway.org/hosts.txt,1,1669606326,1671831437,Wally3k,1685511469,6540,0,2
+12,https://v.firebog.net/hosts/AdguardDNS.txt,1,1669606326,1671831441,Wally3k,1685511472,52326,0,2
+13,https://v.firebog.net/hosts/Admiral.txt,1,1669606326,1671831443,Wally3k,1685511473,0,0,2
+14,https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt,1,1669606326,1671831444,Wally3k,1685511478,42536,0,2
+15,https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt,1,1669606326,1671831446,Wally3k,1685511479,2701,0,2
+16,https://v.firebog.net/hosts/Easylist.txt,1,1669606326,1671831447,Wally3k,1685511482,24912,0,2
+17,https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext,1,1669606326,1671831448,Wally3k,1685511483,3724,0,2
+18,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts,1,1669606326,1671831454,Wally3k,1685511484,9,0,2
+19,https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts,1,1669606326,1671831459,Wally3k,1685511487,18144,0,2
+20,https://v.firebog.net/hosts/Easyprivacy.txt,1,1669606326,1671831461,Wally3k,1685511489,18357,0,2
+21,https://v.firebog.net/hosts/Prigent-Ads.txt,1,1669606326,1671831468,Wally3k,1685511490,3674,0,2
+22,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts,1,1669606326,1671831470,Wally3k,1685511491,2030,0,2
+23,https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt,1,1669606326,1671831471,Wally3k,1685511493,347,0,2
+24,https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt,1,1669606326,1671831473,Wally3k,1685511495,14131,0,2
+25,https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt,1,1669606326,1671831474,Wally3k,1685511497,13410,13,2
+26,https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt,1,1669606326,1671831477,Wally3k,1685511499,45,0,2
+27,https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt,1,1669606326,1671831479,Wally3k,1685511500,2735,1,2
 28,https://v.firebog.net/hosts/Prigent-Crypto.txt,0,1669606326,1671259175,Wally3k,1671258394,53180,0,1
 29,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts,0,1669606326,1671259173,Wally3k,1669606759,2189,0,2
 30,https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt,0,1669606326,1671259171,Wally3k,1669606762,2046,0,2
